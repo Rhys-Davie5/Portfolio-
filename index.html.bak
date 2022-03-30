@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Rhys Davies</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/x-icon" href="images/Rhys.jpg">
+		
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/Rhys.jpg" alt="" /></span>
+					<h1 id="logo"><a>Rhys Davies</a></h1>
+					<p> University Cyber Security student </p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About</a></li>
+						<li><a href="#two">Things I Can Do</a></li>
+						<li><a href="#three">A Few Accomplishments</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://twitter.com/MynameisRhys" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://github.com/Rhys-Davie5" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="rhysdavies615@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="">
+									<img src="images/Rhys3.jpg" alt="Rhys Davies" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h3>Hello and welcome to my site</h3>
+									</header>
+									<p>im currently studying in university for an HND but I am planning on moving on to a bachelores degree and then a masters degree in Cyber Security and Networking. I started my tech journey back in 2018, slowly building my understanding of computers how they work putting them together and learning the insides aka programming and other tools. </p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Things I Can Do</h3>
+									<ul class="feature-icons">
+										<li class="icon solid fa-code">Do some coding in select languages</li>
+										<li class="icon solid fa-cubes">Experemting with software on Github</li>
+										<li class="icon solid fa-book">looking to improve my knowledge</li>
+										<li class="icon solid fa-coffee">Energy drinks are a part of me</li>
+										<li class="icon solid fa-bolt">I get my work done quickly</li>
+										<li class="icon solid fa-users">I work well with other people</li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Education and experience</h3>
+									<p>This is a history of my education</p>
+									<div class="features">
+										<article>
+											<a href="#" class="image"><img src="images/school.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Ysgol Gyfun Emlyn</h4>
+												<p>I stayed in Ysgol Gyfen emlyn for 5 years and left in 2018 to further my education in Coleg Ceredigion due to them having better resources avaiable.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/college.jpeg" alt="" /></a>
+											<div class="inner">
+												<h4>Coleg Ceredigion</h4>
+												<p>as soon as I left secondary school I went to Coleg Ceredigion, I did a level 2 and level 3 OCR Cambridge Technical Subsidiary Diploma in IT and I left in 2021 to study at University of Wales Trinity Saint David.</p>
+											</div>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/university.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>University of Wales Trinity Saint David</h4>
+												<p>as of writing this im doing my first year in my HND and im working my way up to do a masters degree in CyberSecurity and Networking.</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						
+						<!-- Four -->
+						
+							
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
